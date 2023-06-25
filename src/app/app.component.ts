@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Landing_Page_1';
+  feature_img = 'assets/images/image.png';
+  arrowImg = 'assets/images/arrow.png';
 }
